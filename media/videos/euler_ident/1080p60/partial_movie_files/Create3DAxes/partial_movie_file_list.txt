@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/mulle/Desktop/manim_projects/media/videos/euler_ident/1080p60/partial_movie_files/Create3DAxes/4242032193_977086803_3684798337.mp4'
+file 'file:C:/Users/mulle/Desktop/manim_projects/media/videos/euler_ident/1080p60/partial_movie_files/Create3DAxes/3066301911_605956594_3383925251.mp4'
+file 'file:C:/Users/mulle/Desktop/manim_projects/media/videos/euler_ident/1080p60/partial_movie_files/Create3DAxes/4271034353_2465917885_568346674.mp4'
